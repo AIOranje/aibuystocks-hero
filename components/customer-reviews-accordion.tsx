@@ -6,8 +6,8 @@ import { Star } from "lucide-react"
 export function CustomerReviewsAccordion() {
   const reviewItems = [
     {
-      title: "\"Best decision ever for trading" — 24-03-2025\",\
-      content: "Incredible service. I don\'t need to do any analysis. Just follow the signals. Easy profits.",
+      title: "Best decision ever for trading – 24-03-2025",
+      content: "Incredible service. I don't need to do any analysis. Just follow the signals. Easy profits.",
     },
     {
       title: "\"Honest. Transparent. Profitable" — 25-03-2025",\
